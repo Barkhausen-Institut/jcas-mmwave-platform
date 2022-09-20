@@ -1,0 +1,3 @@
+10001###empty tx list
+10002###TX burst size larger than max (64 000 000 samples, burst duration of 20.833ms)
+10003###RX measurement size larger than max (64 000 000 samples, acquisition duration of 20.833ms)

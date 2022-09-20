@@ -1,0 +1,7 @@
+Running: xsim.dir/EqParallelSingleTop/xsimk592D770CDFE541E99D96194ACDC69DD8.dll -log xsiSetupLog
+Design successfully loaded
+Design Loading Memory Usage: 1077580 KB (Peak: 1077580 KB)
+Design Loading CPU Usage: 771331 ms
+Simulation completed
+Simulation Memory Usage: 1077580 KB (Peak: 1077580 KB)
+Simulation CPU Usage: 771455 ms
