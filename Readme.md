@@ -120,5 +120,8 @@ In addition to above hardware, the necessary cables to connect the system approp
 - [src/systemAB](src/systemAB) contains the LabView source code of the FPGA and host programs that run on System A and B to control the mmWave devices.
 - [installer](installer) contains the setup file for installing the compiled LabView Code on a new system.
 
+## Contributors
+This repository has been set up by Maximilian Matthe, [Barkhausen Institut](https://barkhauseninstitut.org). The mmWave firmware and Python API has been developed by [Noffz Technologies](https://noffz.com).
+
 ## License
 This entire work is licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
