@@ -48,6 +48,9 @@ The present setup has been developed and tested with a system containing of the 
 In addition to above hardware, the necessary cables to connect the system appropriately are needed. See accompanying [documentation](doc/documenation-mmWaveSystem.pdf) for detailed instructions on how to cable the devices.
 
 ## Installation
+Until having resolved final licensing issues, we cannot provide the binary installer within this repository. Users are encouraged to test out the LabView source code provided in `source/systemAB` with according documentation in `doc`.
+
+
 1. clone this repository on both System A and System B.
 2. Install `installer/barkhausen-mmwave-radar_1.0.5-0_windows_x64.nipkg` via the [NI package manager](https://www.ni.com/en-rs/support/downloads/software-products/download.package-manager.html) on both System A and System B. The package installs the executables into `C:\Program Files\Noffz\Barkhausen mmWave radar` and the config data to `C:\ProgramData\Noffz\mmW_instr`.
     - Dependencies installed:
