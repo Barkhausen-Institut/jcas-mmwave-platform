@@ -127,4 +127,4 @@ Until having resolved final licensing issues, we cannot provide the binary insta
 This repository has been set up by Maximilian Matthe, [Barkhausen Institut](https://barkhauseninstitut.org). The mmWave firmware and Python API has been developed by [Noffz Technologies](https://noffz.com).
 
 ## License
-This entire work is licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
+This entire work is licensed under the [GNU Affero General Public License Version 3](https://www.gnu.org/licenses/agpl-3.0.en.html).

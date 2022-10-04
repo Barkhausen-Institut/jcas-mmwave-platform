@@ -27,4 +27,4 @@ python3 -m venv env
 Refer to the files in `examples` to experience the usage of the API. Refer to the [Python API documentation](mmw/Documentation/html/index.html) for a reference of available modules, classes and functions.
 
 ## License
-This entire work is licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
+This entire work is licensed under the [GNU Affero General Public License Version 3](https://www.gnu.org/licenses/agpl-3.0.en.html).
